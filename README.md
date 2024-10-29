@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [Apollofy](https://github.com/davidmoina/Apollofy-music-app)
 
-- 🌱 I’m currently learning **Node.js, MongoDB, Express and NextJS**
+- 🌱 I’m currently learning **GSAP, Framer Motion and Astro**
 
 - 👨‍💻 All of my projects are available at [https://github.com/RubenZafra](https://github.com/RubenZafra)
 
